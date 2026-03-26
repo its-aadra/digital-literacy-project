@@ -1,0 +1,23 @@
+Platforms Used:
+-CodeChef (for coding practice)
+-Google Forms (for quiz creation)
+
+Coding Activity (CodeChef):
+-Created an account and explored the platform
+-Solved a beginner-level Python problem
+-Task: Print a square pattern of stars (*) of size 4
+-Practiced basic concepts like loops and output formatting
+
+Collaboration Activity:
+-Created a Digital Literacy Awareness Quiz
+-Added 5 questions (MCQs + short answers)
+-Viewed responses and linked them to Google Sheets
+
+Key Learnings:
+-Understood how coding platforms work and evaluate submissions
+-Learned how to create and manage online quizzes
+-Improved basic problem-solving and logical thinking
+
+Future Use:
+-CodeChef - for regular coding practice
+-Google forms - for surveys, quizzes and data collection in projects
