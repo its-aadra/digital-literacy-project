@@ -87,6 +87,9 @@ During this project, I didn’t just learn technical things but also understood 
 ### Learning Outcome
 One of the biggest things I realized is that having an online presence is not just about making profiles, but about maintaining them honestly. While working on this project, I understood how small things like writing proper descriptions, uploading genuine work, and staying consistent actually matter. I also faced some confusion while using different platforms, but that helped me learn practically instead of just theoretically.
 
+## Author
+Name - Aadra Khattri
+
 ### Conclusion
 Overall, this project was different from regular assignments because it involved real-world platforms and not just written work. It helped me step out of my comfort zone and try new things like coding platforms and professional networking. I still feel there is a lot to improve, but this project gave me a good starting point and a clearer idea of how to move forward in the digital world.
 
